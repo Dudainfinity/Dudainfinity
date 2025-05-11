@@ -5,7 +5,7 @@
  <hr/>
 
  
-<h2 align="left">hello Duda aqui, primeiro a gente começa! depois a gente melhor ....
+<h2 align="left">Hello Duda aqui, primeiro a gente começa! depois a gente melhor ....
 
 
 </h2> 
