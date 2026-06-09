@@ -1,7 +1,7 @@
 <div align="center">
   <img src="Banners/bannerPrincipal.png" />
 </div>
-
+<br><br>
 <div align="center">
  
 <a href="https://github.com/Dudainfinity">
@@ -97,9 +97,7 @@ Tenho experiência prática criando e operando pipelines CI/CD, ambientes Linux,
 </td>
 </tr>
 </table>
-
----
-## ⚡ Competências Técnicas & GitHub Analytics
+## ⚡ Competências Técnicas
 
 <table>
 <tr>
@@ -114,6 +112,10 @@ Tenho experiência prática criando e operando pipelines CI/CD, ambientes Linux,
 - SSH & Security
 - Cloud Computing
 
+</td>
+
+<td width="50%" valign="top">
+
 ### ⚙️ DevOps & Automação
 
 - GitHub Actions
@@ -123,6 +125,12 @@ Tenho experiência prática criando e operando pipelines CI/CD, ambientes Linux,
 - Deploy Automation
 - Environment Management
 
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### 💻 Desenvolvimento
 
 - Go
@@ -130,6 +138,10 @@ Tenho experiência prática criando e operando pipelines CI/CD, ambientes Linux,
 - Ruby on Rails
 - APIs REST
 - Integrações de Sistemas
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 📚 Atualmente Aprimorando
 
@@ -140,29 +152,21 @@ Tenho experiência prática criando e operando pipelines CI/CD, ambientes Linux,
 - Observabilidade
 
 </td>
-
-<td width="50%" align="center" valign="top">
-
-### 📊 GitHub Analytics
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dudainfinity&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudainfinity&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-</td>
 </tr>
 </table>
 
 ---
 
+## 📊 GitHub Analytics
+
 <div align="center">
 
-### 💡 Filosofia
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dudainfinity&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-*"Não basta funcionar. Precisa ser automatizado, reproduzível e estável em produção."*
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudainfinity&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Dudainfinity&theme=tokyonight&hide_border=true"/>
 
 </div>
