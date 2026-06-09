@@ -1,6 +1,9 @@
 <div align="center">
   <img src="Banners/bannerPrincipal.png" />
 </div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=1000&lines=DevOps+%26+Cloud+Engineer;AWS+%7C+Docker+%7C+Linux+%7C+CI%2FCD;Building+Reliable+and+Scalable+Infrastructure;Automating+Deployments+and+Cloud+Operations;Infrastructure+as+Code+%7C+Terraform+%7C+Kubernetes;From+Code+to+Production)](https://git.io/typing-svg)
+
 <br>
 <div align="center">
  
