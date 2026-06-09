@@ -1,7 +1,7 @@
 <div align="center">
   <img src="Banners/bannerPrincipal.png" />
 </div>
-<br><br>
+<br>
 <div align="center">
  
 <a href="https://github.com/Dudainfinity">
@@ -28,6 +28,7 @@
 </p>
 
 <br>
+
 <div align="center">
 
   <h3>☁️ Cloud • DevOps • Infraestrutura</h3>
@@ -103,6 +104,7 @@ Tenho experiência prática criando e operando pipelines CI/CD, ambientes Linux,
 </td>
 </tr>
 </table>
+
 ## ⚡ Competências Técnicas
 
 <table>
