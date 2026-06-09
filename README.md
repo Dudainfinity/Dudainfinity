@@ -28,16 +28,22 @@
 </p>
 
 <br>
-
 <div align="center">
 
+  <h3>☁️ Cloud • DevOps • Infraestrutura</h3>
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,nginx,cloudflare,git,github,bash,powershell" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,prometheus,grafana,linux,nginx,cloudflare,git,github,bash,powershell" />
   </a>
-  
+
+
+  <h3>⚙️ Back-End • Automação • APIs</h3>
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,python,ruby,rails,django,fastapi,flask,nodejs,postgres,mysql,sqlite" />
   </a>
+
+  <h3>🎨 Front-End • Ferramentas</h3>
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode,pycharm,vim,npm" />
