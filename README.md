@@ -1,122 +1,168 @@
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=247FA7&width=435&lines=Bem-vindo(a)+ao+meu+universo+de+c%C3%B3digo+)](https://git.io/typing-svg)
- <hr/>
-
- 
-<h2 align="left">Hello Duda aqui, primeiro a gente começa! depois a gente melhor ....
-
-
-</h2> 
-
-
-
- <hr/>
+<div align="center">
+  <img src="Banners/bannerPrincipal.png" />
+</div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Dudainfinity/count.svg?"  />
+ 
+<a href="https://github.com/Dudainfinity">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mariaeduardaengsoftware/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
+
+<h1 align="center">
+  Duda • DevOps Engineer ☁️
+</h1>
+
+<p align="center">
+  AWS • Docker • Kubernetes • Linux • CI/CD • Go • Python
+</p>
+
+<p align="center">
+  Especialista em automação, infraestrutura cloud e pipelines CI/CD.
+  Construindo ambientes seguros, reproduzíveis e escaláveis para produção.
+</p>
+
+<br>
+
+<div align="center">
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,nginx,cloudflare,git,github,bash,powershell" />
+  </a>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,python,ruby,rails,django,fastapi,flask,nodejs,postgres,mysql,sqlite" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode,pycharm,vim,npm" />
+  </a>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="Banners/bannerSecundario.png" width="100%" alt="Banner DevOps" />
+</div>
+
+---
+## 👋 Sobre Mim
+
+Sou profissional focada em **DevOps e Cloud Computing**, atuando na construção de ambientes modernos que conectam desenvolvimento, infraestrutura e automação.
+
+Tenho experiência prática criando e operando pipelines CI/CD, ambientes Linux, containers Docker e infraestrutura AWS, sempre com foco em automação, segurança e estabilidade em produção.
+
 <table>
-  <tr>
-    <td>
-      <img src="principal_-removebg-preview.png" height="400" alt="Imagem principal" />
-    </td>
-    <td>
-      <h3>🌟 Bem-vindo ao meu universo Dev!</h3>
-      <p>
-        Aqui você encontra projetos e ideias de <strong>Back-end</strong> e <strong>Fullstack</strong>
-        desafios práticos e soluções criativas — ou simples!
+<tr>
+<td width="50%">
 
-  💡 Aprenda comigo ou me ensine algo novo 
-  — a troca é sempre bem-vinda.
+### 🏆 Destaques
 
-  🛤️ Este repositório é o registro da minha evolução
-        do “Hello, World!”<até minha versão mais avançada. 🚀
+🎓 Bolsista da Jornada Tech AWS — Santander
 
-   👉 Explore à vontade, dê uma olhada nos projetos<br>
-        e, se curtir, não esquece de me seguir! 😄
+☁️ Experiência prática com AWS e Linux
 
-  </tr>
+🚀 Deploys automatizados em produção
+
+⚙️ Pipelines CI/CD utilizando GitHub Actions
+
+🔐 Segurança, SSH, Secrets e ambientes produtivos
+
+🦫 Desenvolvimento e automação com Go e Python
+
+</td>
+
+<td width="50%">
+
+### 🚀 Experiência de Mercado
+
+✅ Deploy de aplicações em AWS EC2
+
+✅ Conteinerização com Docker e Docker Compose
+
+✅ Integrações de APIs e aplicações Full Stack
+
+✅ Automação de deploys via SSH
+
+✅ Configuração de Nginx e servidores Linux
+
+✅ Health Checks e monitoramento de aplicações
+
+</td>
+</tr>
 </table>
-  <h1>✨ Bem-vindo ao meu universo Fullstack! 🚀</h1> <p><strong>Aqui você acompanha minha jornada como desenvolvedor — cheia de ideias, aprendizados e desafios.</strong></p>
 
- <hr/>
-
-  </div>
-
- 
-<div align="right">
-<img src="A IMAGEM .jpg" height="150" width="190" align="right" ;" />
-<img src="segundo gif.gif" align="right"height="150" width="190" />
-
-</div>  
-🌟 Sobre este repositório: 📌 O que você vai encontrar por aqui: stats graph 💡 Ideias criativas e funcionais para projetos Front-end e Back-end 
-🔧 Desafios reais que desenvolvi ou estou explorando 📈 Meu progresso pessoal como dev, do básico ao avançado 
-💬 Um espaço aberto para colaboração, feedback e troca de experiências
-
-
-
-
-  ## My Skill Set  
 ---
+## ⚡ Competências Técnicas & GitHub Analytics
 
- <div align="center ">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="55" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="55" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="55" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="55" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="55" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="nodejs logo"  />
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| <img src="A IMAGEM  2 .jpg" height="400" width="400"> | <img src="terceirovideo-ezgif.com-video-to-gif-converter.gif" height="400" width="400">|
- | ----------- | ----------- |
+### ☁️ Cloud & Infraestrutura
 
-<hr/>
+- AWS EC2
+- Linux Administration
+- Nginx
+- PostgreSQL
+- SSH & Security
+- Cloud Computing
 
+### ⚙️ DevOps & Automação
 
-###
-###
+- GitHub Actions
+- CI/CD Pipelines
+- Docker
+- Docker Compose
+- Deploy Automation
+- Environment Management
 
-<hr/>
+### 💻 Desenvolvimento
 
-</div>
+- Go
+- Python
+- Ruby on Rails
+- APIs REST
+- Integrações de Sistemas
 
-###
+### 📚 Atualmente Aprimorando
 
+- Kubernetes
+- Terraform
+- Infrastructure as Code
+- Cloud Native
+- Observabilidade
 
-###
-### 🌐 **Conecte-se comigo**  
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### 📊 GitHub Analytics
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dudainfinity&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudainfinity&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+
+### 💡 Filosofia
+
+*"Não basta funcionar. Precisa ser automatizado, reproduzível e estável em produção."*
+
 </div>
-
-###
-
----
-
-###
