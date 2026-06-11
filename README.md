@@ -18,7 +18,7 @@
 </div>
 
 <h1 align="center">
-  Duda • DevOps Engineer ☁️
+  Duda • Ruby on Rails Engineer ☁️
 </h1>
 
 <p align="center">
