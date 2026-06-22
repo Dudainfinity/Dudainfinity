@@ -168,6 +168,24 @@ Tenho experiência prática criando e operando pipelines CI/CD, ambientes Linux,
 
 ---
 
+## 📌 Projetos em Destaque
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### ✅ [Gerenciador de Tarefas](https://github.com/Dudainfinity/gerenciador-tarefas)
+
+Aplicação web de gerenciamento de tarefas (to-do) em **Ruby on Rails 8**, com autenticação nativa, tarefas por usuário, prioridades, prazos com alerta de atraso e interface em **pt-BR**. Suíte de testes automatizados cobrindo modelos e controllers.
+
+`Ruby on Rails 8` · `Hotwire` · `SQLite` · `Minitest` · `Autenticação nativa`
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
